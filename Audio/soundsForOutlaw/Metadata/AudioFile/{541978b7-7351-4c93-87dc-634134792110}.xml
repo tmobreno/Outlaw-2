@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{541978b7-7351-4c93-87dc-634134792110}">
+		<property name="assetPath">
+			<value>bounce.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.28206349206349207</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{a960bc8b-3df7-4654-bfd6-a3df194e3651}</destination>
+		</relationship>
+	</object>
+</objects>
